@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author NOKIA
+ *
+ */
+module javaproject {
+}
